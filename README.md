@@ -18,8 +18,8 @@ Users should be able to:
 
 ## Links
 
-- [Solution URL](https://www.frontendmentor.io/solutions/nft-preview-card-component-html-css-8x5hd6OEj)
-- [Live Site URL](https://your-live-site-url.com)
+- [Solution URL](https://github.com/botirk38/nft-preview-card-component-main)
+- [Live Site URL](botirk38.github.io/nft-preview-card-component-main/)
 
 ## My process
 
